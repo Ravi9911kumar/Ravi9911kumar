@@ -16,18 +16,23 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Meerut Sports Admin** | Inventory app for sports store | Jetpack Compose, Room, Kotlin |
+| Meerut Sports Admin | Inventory app for sports store | Jetpack Compose, Room, Kotlin |
 
-| **AI Chatbot App** | ChatGPT-powered mobile app | Compose, OpenAI API |
+| AI Chatbot App| ChatGPT-powered mobile app | Compose, OpenAI API |
 
-| **News App** | Live news with category filtering | Retrofit, MVVM, Compose |
+| News App | Live news with category filtering | Retrofit, MVVM, Compose |
 
-| **Contact App** | Add/update/delete contacts with image support | Compose, Room, ViewModel |
+| Contact App | Add/update/delete contacts with image support | Compose, Room, ViewModel |
 
-| **Tip Calculator** | Simple Compose-based calculator | Jetpack Compose |
+| Tip Calculator | Simple Compose-based calculator | Jetpack Compose |
 
-<img width="155" height="103" alt="image" src="https://github.com/user-attachments/assets/126c4ecc-e8a8-4294-bc7f-8c88fbaa7c3d" />
-<img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/0cf66355-5f1e-4adc-8e5c-b1bc639a082c" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/126c4ecc-e8a8-4294-bc7f-8c88fbaa7c3d" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0cf66355-5f1e-4adc-8e5c-b1bc639a082c" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9939a00a-2401-4894-b375-8521b6728763" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5d288ebc-1f7e-41d2-ac0a-4059648ddd78" />
+
+
+
 
 
 
