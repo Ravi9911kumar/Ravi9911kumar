@@ -17,16 +17,25 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | **Meerut Sports Admin** | Inventory app for sports store | Jetpack Compose, Room, Kotlin |
+
 | **AI Chatbot App** | ChatGPT-powered mobile app | Compose, OpenAI API |
+
 | **News App** | Live news with category filtering | Retrofit, MVVM, Compose |
+
 | **Contact App** | Add/update/delete contacts with image support | Compose, Room, ViewModel |
+
 | **Tip Calculator** | Simple Compose-based calculator | Jetpack Compose |
+
+<img width="155" height="103" alt="image" src="https://github.com/user-attachments/assets/126c4ecc-e8a8-4294-bc7f-8c88fbaa7c3d" />
+<img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/0cf66355-5f1e-4adc-8e5c-b1bc639a082c" />
+
+
+
 
 ---
 
 ### 📫 Connect with Me
 
-- 🌐 Portfolio: [Coming Soon]
 - 📧 Email: `rc9533577@gmail.com`
 - 💬 LinkedIn: (https://www.linkedin.com/in/ravi-kumar-44510b287)
 - 🐙 GitHub: [github.com/ravi123]()
