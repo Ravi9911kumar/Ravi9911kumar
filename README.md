@@ -11,6 +11,15 @@
 - 👨‍🎓 4th Semester BCA | CGPA: 8.1/10
 - 📍 Based in India 🇮🇳
 
+ ---
+
+## 📚 Currently Learning
+- **Machine Learning** with Python  
+- Libraries: Pandas, NumPy, Matplotlib, Scikit-learn  
+- Data Preprocessing, Visualization, and Model Training  
+- Applying ML concepts to real-world mini projects
+
+
 ---
 ### 📱 Android Projects
 
@@ -26,18 +35,15 @@
 
 | Tip Calculator | Simple Compose-based calculator | Jetpack Compose |
 
+| Weather Application | show all the city's weather|jetpack compose ,RestApi,State|
+
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/126c4ecc-e8a8-4294-bc7f-8c88fbaa7c3d" />
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0cf66355-5f1e-4adc-8e5c-b1bc639a082c" />
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9939a00a-2401-4894-b375-8521b6728763" />
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5d288ebc-1f7e-41d2-ac0a-4059648ddd78" />
-
-
-
-
-
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/5d288ebc-1f7e-41d2-ac0a-4059648ddd78" />
 
 
 ---
