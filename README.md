@@ -51,8 +51,7 @@
 ### 📫 Connect with Me
 
 - 📧 Email: `rc9533577@gmail.com`
-- 💬 LinkedIn: (https://www.linkedin.com/in/ravi-kumar-44510b287)
-- 🐙 GitHub: [github.com/ravi123]()
+- 💬 LinkedIn: ()
 
 ---
 
