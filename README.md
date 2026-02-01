@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on several Android apps including **Online Comlaints App**, **AI Chatbot**, and **News App**
 - 🌱 I’m learning advanced **Jetpack Compose**, **Kotlin Multiplatform (KMP)**, and **DSA in C++**,Machine learning
 - 💼 I have built apps using Room, Retrofit, MVVM, Koin, and Material 3
-- 👨‍🎓 6th Semester BCA | CGPA: 8.1/10
+- 👨‍🎓 6th Semester BCA | CGPA: 7.6/10
 - 📍 Based in India 🇮🇳
 
  ---
